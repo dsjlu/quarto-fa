@@ -1,0 +1,13 @@
+---
+title: "Quarto-fa Example"
+---
+
+## Heading
+
+{{< fa-ul >}}
+  {{< fa-li bell color=#ff5733 >}} Test Item 1 {{< /fa-li >}}
+  {{< fa-li facebook group=brands color=#33ff57 >}} Test Item 2 {{< /fa-li >}}
+  {{< fa-li twitter group=brands color=#3357ff >}} Test Item 3 {{< /fa-li >}}
+{{< /fa-ul >}}
+
+{{< fa-i facebook group="brands" color="#ff5733" >}}
