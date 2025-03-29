@@ -19,7 +19,7 @@ To insert a Font Awesome icon in your Quarto document, use:
 {{< fa-i bell color=#ff5733 >}}
 ```
 
-![](README_files/screenshot_1.png)
+![](README_img/screenshot_1.png)
 
 #### Available Parameters:
 
@@ -39,7 +39,7 @@ Create unordered lists with icons as bullets using:
 {{< /fa-ul >}}
 ```
 
-![](README_files/screenshot_2.png)
+![](README_img/screenshot_2.png)
 
 #### Explanation:
 
